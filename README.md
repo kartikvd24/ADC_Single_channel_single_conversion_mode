@@ -129,7 +129,7 @@ Confirm sensor is properly connected to PA1 and powered
 Desai
 🗓️ Created on: July 31, 2025
 
-Example Experiment: (I have used capacitive soil moisture sensor u can use any of the analog sensor or just for testing purpose u can directly connect hte adc pin with +3.3v or gnd (only for implementation) u can see the values for gnd and 3.3v in live expression tab i.e gnd=0 and 3.3v=4095)
+Example Experiment: (I have used capacitive soil moisture sensor u can use any of the analog sensor or just for testing purpose u can directly connect the adc pin with +3.3v or gnd (only for implementation purpose only) u can see the values for gnd and 3.3v in live expression tab i.e gnd=0,1... and 3.3v=4095)
 Soil Moisture Sensor Experiment
 
 --I have learned about different types of soil sensors such as capacitive and resistive sensors, and how they work by detecting changes in the conductivity or dielectric constant of the soil. These sensors are widely used in precision agriculture, automated irrigation, and environmental monitoring, providing real-time insights into soil conditions.
