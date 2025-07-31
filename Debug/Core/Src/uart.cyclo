@@ -1,0 +1,6 @@
+../Core/Src/uart.c:29:14:uart_set_baudrate	1
+../Core/Src/uart.c:34:17:compute_uart_div	1
+../Core/Src/uart.c:42:6:UART2_RXTX_INIT	1
+../Core/Src/uart.c:78:6:uart2_read	2
+../Core/Src/uart.c:85:6:uart2_write	2
+../Core/Src/uart.c:92:5:__io_putchar	1
