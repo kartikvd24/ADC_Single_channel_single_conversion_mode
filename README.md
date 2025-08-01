@@ -137,3 +137,7 @@ Soil Moisture Sensor Experiment
 ✅ Practical Example Used
 As part of my learning, I used a capacitive soil moisture sensor to observe its behavior and verify the output signal. This type of sensor is more durable in moist conditions compared to resistive types.
 📹 A video demonstration is also provided as a reference for how the sensor performs in real-world conditions.
+
+
+
+Note:= to run the program in continous conversion mode we should enable the CONT register in the ADC1->CR2 in the adc.c file and the adc_init function and then in main function just cut the start_conversion out of the while loop and you are good to go!!
